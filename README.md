@@ -22,6 +22,30 @@ base64 -d gfwlist.txt -o gfwlist_decode.txt
 base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 ```
 
+### 改动记录
+
+- 新增 `||logcg.com`
+- 新增 `||kxcdn.com`
+- 新增 `||printfriendly.com`
+- 新增 `||tunnelblick.net`
+- 新增 `||stackoverflow.com`
+- 新增 `||youneed.win`
+- 新增 `||flutter.dev`
+- 新增 `||flutter-io.cn`
+- 新增 `||dart.dev`
+- 新增 `||rubygems.org`
+- 新增 `||doubleclick.net`
+- 新增 `||rubocop.org`
+- 新增 `||ruby-lang.org`
+- 新增 `||huacnlee.com`
+- 新增 `||dartpad.dev`
+- 新增 `||cnswift.org`
+- 新增 `||google.cn`
+- 新增 `||github.com`
+- 修改 `.google.com` 为 `||google.com`
+- 修改 `@@||fonts.googleapis.com` 为 `||fonts.googleapis.com`
+- 移除 `@@|https://cdn.ampproject.org`
+
 ---
 
 <a href="http://info.flagcounter.com/T2RV"><img src="http://s09.flagcounter.com/count2/T2RV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_GFWList/labels_1/pageviews_1/flags_0/percent_0/" border="0"></a>

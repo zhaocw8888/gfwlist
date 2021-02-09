@@ -19,6 +19,9 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||logcg.com
+||kxcdn.com
+||printfriendly.com
 ||tunnelblick.net
 ||stackoverflow.com
 ||youneed.win
