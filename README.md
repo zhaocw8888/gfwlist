@@ -1,3 +1,26 @@
+# gfwlist 根据个人习惯进行了修改
+
+## 使用说明
+
+GFWList 地址: [https://raw.githubusercontent.com/zhaochangwu/gfwlist/master/gfwlist.txt](https://raw.githubusercontent.com/zhaochangwu/gfwlist/master/gfwlist.txt)
+
+## 脚本说明
+
+### 操作系统
+
+**macOS 11.2 (20D64)**
+
+### 脚本说明：
+
+```shell
+# 解码
+base64 -d gfwlist.txt -o gfwlist_decode.txt
+# 编码
+base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
+```
+
+---
+
 <a href="http://info.flagcounter.com/T2RV"><img src="http://s09.flagcounter.com/count2/T2RV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_GFWList/labels_1/pageviews_1/flags_0/percent_0/" border="0"></a>
 
 |[Annoucements & Discussions][chat-room]|

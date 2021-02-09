@@ -19,6 +19,21 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||tunnelblick.net
+||stackoverflow.com
+||youneed.win
+||flutter.dev
+||flutter-io.cn
+||dart.dev
+||rubygems.org
+||doubleclick.net
+||rubocop.org
+||ruby-lang.org
+||huacnlee.com
+||dartpad.dev
+||cnswift.org
+||google.cn
+||github.com
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
@@ -1254,7 +1269,6 @@ cdninstagram.com
 ||ai.google
 ||ampproject.org
 @@|https://www.ampproject.org
-@@|https://cdn.ampproject.org
 ||android.com
 ||androidify.com
 ||androidtv.com
@@ -1324,7 +1338,7 @@ blogspot.com
 .google.co.kr
 .google.co.ma
 .google.co.uk
-.google.com
+||google.com
 .google.de
 ||google.dev
 .google.dj
@@ -8000,7 +8014,7 @@ ultrasurf
 @@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
-@@||fonts.googleapis.com
+||fonts.googleapis.com
 @@||khm.googleapis.com
 @@||khm0.googleapis.com
 @@||khm1.googleapis.com
