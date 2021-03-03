@@ -22,6 +22,12 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 
 ### 改动记录
 
+#### 2021年3月3日
+
+- 删除 `@@||redirector.gvt1.com`
+
+#### 2021年2月9日
+
 - 新增 `||logcg.com`
 - 新增 `||kxcdn.com`
 - 新增 `||printfriendly.com`

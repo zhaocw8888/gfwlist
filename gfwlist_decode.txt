@@ -1421,7 +1421,6 @@ blogspot.com
 !--||gv.com
 ||gvt0.com
 ||gvt1.com
-@@||redirector.gvt1.com
 ||gvt3.com
 ||gwtproject.org
 ||html5rocks.com
