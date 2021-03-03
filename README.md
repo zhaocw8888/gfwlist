@@ -25,6 +25,7 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 #### 2021年3月3日
 
 - 删除 `@@||redirector.gvt1.com`
+- 添加 `||dartlang.org`
 
 #### 2021年2月9日
 
