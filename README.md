@@ -5,8 +5,6 @@
 GFWList 地址(Github):
 [https://raw.githubusercontent.com/zhaochangwu/gfwlist/master/gfwlist.txt](https://raw.githubusercontent.com/zhaochangwu/gfwlist/master/gfwlist.txt)
 
-GFWList 地址(Gitee): [https://gitee.com/zhaochangwu/gfwlist/raw/master/gfwlist.txt](https://gitee.com/zhaochangwu/gfwlist/raw/master/gfwlist.txt)
-
 ## 脚本说明
 
 ### 操作系统
