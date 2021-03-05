@@ -22,15 +22,14 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 
 ### 改动记录
 
-#### 2021年3月4日
+#### 2021年3月
 
-- 新增 `||rvm_io.global.ssl.fastly.net`
-#### 2021年3月3日
-
-- 删除 `@@||redirector.gvt1.com`
 - 新增 `||dartlang.org`
+- 新增 `||rvm_io.global.ssl.fastly.net`
+- 删除 `@@||redirector.gvt1.com`
+- 新增 `||jianli2017.top`
 
-#### 2021年2月9日
+#### 2021年2月
 
 - 新增 `||logcg.com`
 - 新增 `||kxcdn.com`
