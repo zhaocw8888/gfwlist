@@ -19,6 +19,8 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||developer.apple.com/cn/
+||sunnyxx.com
 ||jianli2017.top
 ||rvm_io.global.ssl.fastly.net
 ||dartlang.org

@@ -28,6 +28,8 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 - 新增 `||rvm_io.global.ssl.fastly.net`
 - 删除 `@@||redirector.gvt1.com`
 - 新增 `||jianli2017.top`
+- 新增 `||developer.apple.com/cn/`
+- 新增 `||sunnyxx.com`
 
 #### 2021年2月
 
