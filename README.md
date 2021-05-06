@@ -22,6 +22,12 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 
 ### 改动记录
 
+#### 2021年5月
+
+- 新增`||rustylake.com`
+- 新增`||pramp.com`
+- 新增`||njhzmxx.com`
+
 #### 2021年3月
 
 - 新增 `||dartlang.org`

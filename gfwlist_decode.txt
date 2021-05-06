@@ -19,6 +19,9 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||rustylake.com
+||pramp.com
+||njhzmxx.com
 ||developer.apple.com/cn/
 ||sunnyxx.com
 ||jianli2017.top
