@@ -22,6 +22,11 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 
 ### 改动记录
 
+#### 2021年7月
+- 优化`||cloudfront.net`相关
+- 新增`||adorama.com`
+- 新增`||adsymptotic.com`
+
 #### 2021年6月
 - 新增`||cloudflare.com`
 

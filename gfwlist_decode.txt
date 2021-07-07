@@ -18,7 +18,8 @@
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
-!--||adorama.com
+||adorama.com
+||adsymptotic.com
 ||cloudflare.com
 ||rustylake.com
 ||pramp.com
@@ -737,13 +738,14 @@ www.aolnews.com
 .zzux.com
 
 !!---CloudFront---
-d1b183sg0nvnuh.cloudfront.net
-|https://d1b183sg0nvnuh.cloudfront.net
-d1c37gjwa26taa.cloudfront.net
-|https://d1c37gjwa26taa.cloudfront.net
-d3c33hcgiwev3.cloudfront.net
-|https://d3c33hcgiwev3.cloudfront.net
-||d3rhr7kgmtrq1v.cloudfront.net
+||cloudfront.net
+!--d1b183sg0nvnuh.cloudfront.net
+!--|https://d1b183sg0nvnuh.cloudfront.net
+!--d1c37gjwa26taa.cloudfront.net
+!--|https://d1c37gjwa26taa.cloudfront.net
+!--d3c33hcgiwev3.cloudfront.net
+!--|https://d3c33hcgiwev3.cloudfront.net
+!--||d3rhr7kgmtrq1v.cloudfront.net
 
 !!---DtDNS---
 !###https://www.dtdns.com/dtsite/faq
