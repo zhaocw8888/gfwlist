@@ -21,6 +21,8 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 ```
 
 ### 改动记录
+#### 2022年3月
+- 新增`||rutracker.org`
 
 #### 2021年7月
 - 优化`||cloudfront.net`相关
