@@ -21,6 +21,11 @@ base64 -i gfwlist_decode.txt -b 64 -o gfwlist.txt
 ```
 
 ### 改动记录
+#### 2022年5月
+- 新增`||steampowered.com`
+- 删除`.steamcommunity.com`
+- 删除`|http://store.steampowered.com/app/333600`
+
 #### 2022年3月
 - 新增`||rutracker.org`
 

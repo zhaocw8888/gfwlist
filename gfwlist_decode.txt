@@ -1527,13 +1527,12 @@ cn.nytstyle.com
 ||nytstyle.com
 
 !!---Steam---
-.steamcommunity.com
 ||steamcommunity.com
+||steampowered.com
 !--steamcommunity.com/profiles/76561198062771609
 !--steamcommunity.com/groups/LibetTibet
 !--steamcommunity.com/groups/zhonggong
 !--steamcommunity.com/id/CJT_Jackton
-|http://store.steampowered.com/app/333600
 
 !!---Telegram---
 !!!---Domain---
