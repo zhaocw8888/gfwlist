@@ -1529,6 +1529,7 @@ cn.nytstyle.com
 !!---Steam---
 ||steamcommunity.com
 ||steampowered.com
+||steamstatic.com
 !--steamcommunity.com/profiles/76561198062771609
 !--steamcommunity.com/groups/LibetTibet
 !--steamcommunity.com/groups/zhonggong
